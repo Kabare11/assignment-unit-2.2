@@ -77,10 +77,21 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// we created 3 variables and are the following:
+// the first variable we named isStudent and set it is value to a bolean (true or false)
+// the second variable we named age and set it is value to 34
+// the third variable we named zip and set it is value to 55407
 //
+// we created a condtional statement to check if the value of variable isStudent is true and the value of variable zip is greater than 800000, and both statement are true we console.log(`You're a student on the West Coast!`)
+// we created another condtional statement to check if the value of variable isStudent is false OR value of variable age is less than 30, and if both conditional statement are true we console.log('What are your hobbies?')
+
+// we created another condtional statement to check if the value of variable isStudent is true and if it is true we console.log('Welcome to Prime!')
+
+// and if all the above contional statements are not met or dont run 
+// we will console.log('How about the weather?')
+
+// and since our variable isStudent is true, we consol.log('What are your hobbies?')
+
 
 //CODE
 /*
@@ -137,7 +148,12 @@ if (number >= 2) {
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
 /*
+
+// the value of colorOne is red
 let colorOne = 'red';
+
+// the value of colorTwo is blue
+
 let colorTwo = 'blue';
 let mix = true;
 
@@ -154,6 +170,10 @@ if (mix === true) {
 let temp = 40;
 const time = 4;
 
+// the only incorect code in this conditional statement is the use of AND
+// we should use OR to check if either of the statement is true and we will
+//  console.log('throw away the food!');
+
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
@@ -166,7 +186,9 @@ if (temp > 39 || time >= 4) {
 /*
 let age = 21;
 const minAge = 21;
-
+// we checking if minAge is Less than Or equal to age
+//if that conditioanl statement id true 
+// we console.log('no entry');
 if(minAge <= age) {
   console.log('no entry');
 } else {
