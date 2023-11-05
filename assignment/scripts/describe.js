@@ -26,10 +26,12 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// we created a variable called name and set its value to Dane.
+// we created a conditional statement and checked if the name variable we created earlier is equal to Mary.
+// if its equal to mary, we console.log(('Hi, Mary!')
+// and if it is not equal to Mary we console.log('How do you do?')
+// since the name variable we created earlier is not Mary and it is Dane.
+// we will console.log('How do you do?')
 
 //CODE
 /*
@@ -45,9 +47,12 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
+// we created a variable named Secret and set it is value to Empty.
 // 
 // 
-// 
+//
+//
+//
 //
 
 //CODE
@@ -113,9 +118,9 @@ if (isStudent === true && zip > 80000 ) {
 /*
 let number = 1;
 
-// FIX - number-- decrements number, but the instructions ask to increment. 
+// FIX - number-- decrements number, but the instructions ask to increment.
 // Should be number++.
-number--; 
+number--;
 
 if (number >= 2) {
   console.log('yes');
