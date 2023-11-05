@@ -47,13 +47,15 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
+
 // we created a variable named Secret and set it is value to Empty.
-// 
-// 
-//
-//
-//
-//
+// we created another variable named code and set it is value to the numbers 123.
+// we created a conditional statement to check if code is equal to 123 the value of the empty variable secret will be 'SUPER'. 
+// The value of variable code is reassigned to its Previous Value (123) Multiply by 2
+// the new value for variable Code is (123 *2) which is 246
+// we created another condtional statement to check if the new value of code which is 246 is greater than 250, if it is greater than 250 the value for our empty variable named secret will be 'duper'
+// since 246 is not greater than 246 the value for our empty variable secret will be 'super' beacuse the first condition wa true and the code value was 123.
+// we console.log('super')
 
 //CODE
 /*
