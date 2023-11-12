@@ -153,12 +153,13 @@ if (number >= 2) {
 let colorOne = 'red';
 
 // the value of colorTwo is blue
-
+// the values of the colors are swapped
 let colorTwo = 'blue';
 let mix = true;
 
 if (mix === true) {
   colorOne = 'purple';
+  // colorTwo assignment is missing
 }
 */
 
@@ -175,6 +176,7 @@ const time = 4;
 //  console.log('throw away the food!');
 
 if (temp > 39 || time >= 4) {
+  // in the description they used AND Operator and the code section they used OR Operator
   console.log('throw away the food!');
 }
 */
@@ -186,9 +188,8 @@ if (temp > 39 || time >= 4) {
 /*
 let age = 21;
 const minAge = 21;
-// we checking if minAge is Less than Or equal to age
-//if that conditioanl statement id true 
-// we console.log('no entry');
+// in thge description we are checking if Age is greater than minAge 
+// but in the code we are checking if minAge is less than or equal to Age 
 if(minAge <= age) {
   console.log('no entry');
 } else {
